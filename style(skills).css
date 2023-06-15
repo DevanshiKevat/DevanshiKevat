@@ -1,0 +1,34 @@
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #e9dfdf;
+        color: #333333;
+        margin: 0;
+        padding: 20px;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    li {
+        margin-bottom: 10px;
+    } */
+
+     big {
+        font-size: 24px;
+    }
+
+    u {
+        text-decoration: underline;
+    }
+
+    b {
+        font-weight: bold;
+    } 
+     
