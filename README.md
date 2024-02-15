@@ -1,3 +1,4 @@
+![logo](https://github.com/DevanshiKevat/DevanshiKevat/blob/main/2.png)
 <h1 align="center">Hi 👋, I'm Devanshi Kevat</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
