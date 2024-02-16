@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshikevat&label=Profile%20views&color=0e75b6&style=flat" alt="devanshikevat" /> </p>
 
-- 🌱 I’m currently learning **Java and Python and its libraries which are useful for data analysis**
+- 🌱 I’m currently learning **Java, Python and its libraries which are useful for data analysis**
 
 - 📫 How to reach me **devanshikevat2611@gmail.com**
 
