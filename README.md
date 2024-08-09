@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, Python and its libraries which are useful for data analysis**
 
-- 📫 How to reach me **devanshikevat2611@gmail.com**
+- 📫 How to reach me **devanshikevat7041@gmail.com**
 
 
 <p align="left">
