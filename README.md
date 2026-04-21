@@ -85,11 +85,5 @@
       </a>
       <br><b>MySQL</b>
     </td>
-    <td align="center">
-      <a href="https://www.postgresql.org">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50"/>
-      </a>
-      <br><b>PostgreSQL</b>
-    </td>
   </tr>
 </table>
