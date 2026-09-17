@@ -28,8 +28,6 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="50"/>
       </a>
     </td>
-    <td align="center">
-    </td>
   </tr>
 </table>
 ---
