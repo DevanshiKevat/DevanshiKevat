@@ -29,9 +29,6 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.hackerrank.com/profile/devanshikevat701">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="50"/>
-      </a>
     </td>
   </tr>
 </table>
